@@ -1,5 +1,6 @@
 ### Spotify Web Clone 
 
+(Repostando devido a problemas gerados ao antigo repositorio)
 
 Project number02 for my Bootstrap studies
 
