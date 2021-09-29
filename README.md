@@ -9,4 +9,4 @@ Following in the footsteps of Jamilton Damasceno and adding my modifications. My
 <hr>
 
 ### Final 
-https://ricardoliveiraof2m.github.io/SpotifyWebClone/
+https://ricmerces.github.io/SpotifyWeb/
